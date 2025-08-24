@@ -1,0 +1,11 @@
+# секреты
+.env
+.env.*
+!.env.example
+
+# сборки и мусор
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
